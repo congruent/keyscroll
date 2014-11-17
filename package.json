@@ -1,9 +1,9 @@
 {
-  "name": "alpha",
-  "title": "alpha",
+  "name": "keyscroll",
+  "title": "keyscroll",
   "id": "jid1-PlDlj6MgtP0Ieg",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "start, stop, accelerate and decelerate scrolling with two single hotkeys",
+  "author": "congruent",
   "license": "MPL 2.0",
   "version": "0.1"
 }
